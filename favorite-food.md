@@ -1,3 +1,4 @@
-sushi
-pizza
-steak
+# favorate foods
+* sushi
+* pizza
+* steak
